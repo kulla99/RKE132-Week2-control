@@ -1,0 +1,15 @@
+C:\Users\pere\source\repos\UserGenderValidation\useragevalidation1\bin\Debug\net6.0\useragevalidation1.exe
+C:\Users\pere\source\repos\UserGenderValidation\useragevalidation1\bin\Debug\net6.0\useragevalidation1.deps.json
+C:\Users\pere\source\repos\UserGenderValidation\useragevalidation1\bin\Debug\net6.0\useragevalidation1.runtimeconfig.json
+C:\Users\pere\source\repos\UserGenderValidation\useragevalidation1\bin\Debug\net6.0\useragevalidation1.dll
+C:\Users\pere\source\repos\UserGenderValidation\useragevalidation1\bin\Debug\net6.0\useragevalidation1.pdb
+C:\Users\pere\source\repos\UserGenderValidation\useragevalidation1\obj\Debug\net6.0\useragevalidation1.csproj.AssemblyReference.cache
+C:\Users\pere\source\repos\UserGenderValidation\useragevalidation1\obj\Debug\net6.0\useragevalidation1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pere\source\repos\UserGenderValidation\useragevalidation1\obj\Debug\net6.0\useragevalidation1.AssemblyInfoInputs.cache
+C:\Users\pere\source\repos\UserGenderValidation\useragevalidation1\obj\Debug\net6.0\useragevalidation1.AssemblyInfo.cs
+C:\Users\pere\source\repos\UserGenderValidation\useragevalidation1\obj\Debug\net6.0\useragevalidation1.csproj.CoreCompileInputs.cache
+C:\Users\pere\source\repos\UserGenderValidation\useragevalidation1\obj\Debug\net6.0\useragevalidation1.dll
+C:\Users\pere\source\repos\UserGenderValidation\useragevalidation1\obj\Debug\net6.0\refint\useragevalidation1.dll
+C:\Users\pere\source\repos\UserGenderValidation\useragevalidation1\obj\Debug\net6.0\useragevalidation1.pdb
+C:\Users\pere\source\repos\UserGenderValidation\useragevalidation1\obj\Debug\net6.0\useragevalidation1.genruntimeconfig.cache
+C:\Users\pere\source\repos\UserGenderValidation\useragevalidation1\obj\Debug\net6.0\ref\useragevalidation1.dll
